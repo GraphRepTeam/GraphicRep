@@ -1,0 +1,6 @@
+certifi==2019.11.28
+decorator==4.4.1
+networkx==2.4
+wincertstore==0.2
+xlrd==1.2.0
+python==3.7
