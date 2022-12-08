@@ -1,4 +1,4 @@
-certifi==2019.11.28
+certifi==2022.12.7
 decorator==4.4.1
 networkx==2.4
 wincertstore==0.2
